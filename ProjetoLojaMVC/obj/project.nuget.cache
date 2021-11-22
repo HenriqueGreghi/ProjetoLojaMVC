@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "id2M/6FzLOi3MbbBNt3HHVvOgk2U2erKDwSc9wyMtsE3Dwsexs3GbM/D8k2+AwgdUbocztJGj0K8iQUFFgu+eg==",
+  "dgSpecHash": "ZnfXcQCkgRhB6vSdUHx3trWSUHKW0EdzWgt+BHWRchVLzHlBMt7MS8tFl1Sh0aUTeZD29FzlZop6Eb2PTUYurA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\source\\repos\\ProjetoLojaMVC\\ProjetoLojaMVC\\ProjetoLojaMVC.csproj",
+  "projectFilePath": "C:\\Users\\henri\\Desktop\\Curso de Programação\\C#\\Programas\\ProjetoLojaMVC\\ProjetoLojaMVC\\ProjetoLojaMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",

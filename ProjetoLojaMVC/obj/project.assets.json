@@ -12660,11 +12660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\source\\repos\\ProjetoLojaMVC\\ProjetoLojaMVC\\ProjetoLojaMVC.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\Desktop\\Curso de Programação\\C#\\Programas\\ProjetoLojaMVC\\ProjetoLojaMVC\\ProjetoLojaMVC.csproj",
       "projectName": "ProjetoLojaMVC",
-      "projectPath": "C:\\Users\\henri\\source\\repos\\ProjetoLojaMVC\\ProjetoLojaMVC\\ProjetoLojaMVC.csproj",
+      "projectPath": "C:\\Users\\henri\\Desktop\\Curso de Programação\\C#\\Programas\\ProjetoLojaMVC\\ProjetoLojaMVC\\ProjetoLojaMVC.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henri\\source\\repos\\ProjetoLojaMVC\\ProjetoLojaMVC\\obj\\",
+      "outputPath": "C:\\Users\\henri\\Desktop\\Curso de Programação\\C#\\Programas\\ProjetoLojaMVC\\ProjetoLojaMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
