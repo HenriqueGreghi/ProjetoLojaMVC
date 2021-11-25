@@ -34,3 +34,39 @@ C:\Users\henri\source\repos\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.
 C:\Users\henri\source\repos\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.pdb
 C:\Users\henri\source\repos\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.genruntimeconfig.cache
 C:\Users\henri\source\repos\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.csproj.CopyComplete
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\ProjetoLojaMVC.deps.json
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\ProjetoLojaMVC.runtimeconfig.json
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\ProjetoLojaMVC.runtimeconfig.dev.json
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\ProjetoLojaMVC.dll
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\ProjetoLojaMVC.pdb
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\ProjetoLojaMVC.Views.dll
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\bin\Debug\netcoreapp2.1\ProjetoLojaMVC.Views.pdb
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.AssemblyInfo.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.RazorAssemblyInfo.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.RazorAssemblyInfo.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.TagHelpers.input.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.TagHelpers.output.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.RazorCoreGenerate.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.RazorTargetAssemblyInfo.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.RazorTargetAssemblyInfo.cs
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.Views.pdb
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.dll
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.pdb
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.genruntimeconfig.cache
+C:\Users\henri\Desktop\Curso de Programação\C#\Programas\ProjetoLojaMVC\ProjetoLojaMVC\obj\Debug\netcoreapp2.1\ProjetoLojaMVC.csproj.CopyComplete
